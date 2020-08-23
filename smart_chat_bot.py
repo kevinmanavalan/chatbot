@@ -9,10 +9,6 @@ Original file is located at
 
 #smart chat bot program
 
-pip install nltk
-
-pip install newspaper3k
-
 #import the libraries
 from newspaper import Article
 import random
